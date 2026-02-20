@@ -159,9 +159,6 @@ This is a **basic scraper** with limitations:
 - **[TikTok Downloader (Node.js)](https://github.com/mikesmith-ge/tiktok-video-downloader-nodejs)** – TikTok in JavaScript
 - **[Instagram Downloader (PHP)](https://github.com/mikesmith-ge/instagram-media-downloader-php)** – Instagram media
 - **[Instagram Downloader (Python)](https://github.com/mikesmith-ge/instagram-media-downloader-python)** – Instagram in Python
-- **[Facebook Post Scraper (PHP)](https://github.com/mikesmith-ge/facebook-post-scraper-php)** – Facebook posts
-- **[Twitter Thread Downloader (PHP)](https://github.com/mikesmith-ge/twitter-thread-downloader-php)** – Archive Twitter threads
-- **[Telegram Channel Info (PHP)](https://github.com/mikesmith-ge/telegram-channel-info-php)** – Get channel stats
 
 [**See all tools →**](https://github.com/mikesmith-ge?tab=repositories)
 
